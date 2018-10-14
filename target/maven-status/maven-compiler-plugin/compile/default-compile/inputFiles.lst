@@ -1,7 +1,8 @@
-/Users/dineshkorani/temp/pramati-test/src/main/java/com/pramati/test/dao/CityDaoImpl.java
-/Users/dineshkorani/temp/pramati-test/src/main/java/com/pramati/test/models/GenericResponse.java
-/Users/dineshkorani/temp/pramati-test/src/main/java/com/pramati/test/services/impl/AutoCompleteServiceImpl.java
-/Users/dineshkorani/temp/pramati-test/src/main/java/com/pramati/test/services/AutoCompleteService.java
-/Users/dineshkorani/temp/pramati-test/src/main/java/com/pramati/test/dao/CityDao.java
-/Users/dineshkorani/temp/pramati-test/src/main/java/com/pramati/test/App.java
-/Users/dineshkorani/temp/pramati-test/src/main/java/com/pramati/test/controllers/AutoCompleteController.java
+/Users/dineshkorani/temp/city_auto/cit_autocomplete/src/main/java/com/test/services/impl/AutoCompleteServiceImpl.java
+/Users/dineshkorani/temp/city_auto/cit_autocomplete/src/main/java/com/test/App.java
+/Users/dineshkorani/temp/city_auto/cit_autocomplete/src/main/java/com/test/models/GenericResponse.java
+/Users/dineshkorani/temp/city_auto/cit_autocomplete/src/main/java/com/test/controllers/AutoCompleteController.java
+/Users/dineshkorani/temp/city_auto/cit_autocomplete/src/main/java/com/test/dao/CityDaoImpl.java
+/Users/dineshkorani/temp/city_auto/cit_autocomplete/src/main/java/com/test/services/AutoCompleteService.java
+/Users/dineshkorani/temp/city_auto/cit_autocomplete/src/main/java/com/test/dao/CityDao.java
+/Users/dineshkorani/temp/city_auto/cit_autocomplete/src/main/java/com/test/models/DataExchange.java

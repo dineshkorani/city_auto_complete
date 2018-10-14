@@ -1,7 +1,8 @@
-com/pramati/test/controllers/AutoCompleteController.class
-com/pramati/test/services/impl/AutoCompleteServiceImpl.class
-com/pramati/test/dao/CityDao.class
-com/pramati/test/services/AutoCompleteService.class
-com/pramati/test/App.class
-com/pramati/test/dao/CityDaoImpl.class
-com/pramati/test/models/GenericResponse.class
+com/test/dao/CityDao.class
+com/test/dao/CityDaoImpl.class
+com/test/models/GenericResponse.class
+com/test/models/DataExchange.class
+com/test/services/impl/AutoCompleteServiceImpl.class
+com/test/services/AutoCompleteService.class
+com/test/controllers/AutoCompleteController.class
+com/test/App.class
